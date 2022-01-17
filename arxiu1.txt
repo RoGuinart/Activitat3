@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-1.Bon dia (no-conflicte)
-2.Bona tarda (v2.0)
-3.
-=======
-<<<<<<< HEAD
-Bon dia
 
-=======
->>>>>>> v2.0
->>>>>>> no-conflicte
+Bon dia (v2.0)
