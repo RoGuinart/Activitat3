@@ -1,7 +1,11 @@
 Bon dia! (v2.0, main) Ara sí!
 Bon dia, espero que no hi hagi conflictes!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ai que la liem. Segur que sí! ¡Hola holita vecinito!
 =======
 Ai que la liem
+>>>>>>> conflicte-manual
+=======
+Ai que la liem!
 >>>>>>> conflicte-manual
