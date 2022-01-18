@@ -1,6 +1,6 @@
 Bon dia! (v2.0, main) Ara sí!
 Bon dia, espero que no hi hagi conflictes!
-<<<<<<< HEAD
+<<<<<<< HEAD a
 <<<<<<< HEAD
 Ai que la liem. Segur que sí! ¡Hola holita vecinito!
 =======
